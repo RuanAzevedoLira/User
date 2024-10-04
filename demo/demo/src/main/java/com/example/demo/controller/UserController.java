@@ -22,7 +22,7 @@ import lombok.NoArgsConstructor;
 @RestController
 @AllArgsConstructor
 @NoArgsConstructor
-@RequestMapping("/api/User/")
+@RequestMapping("/api/users/")
 public class UserController {
 
     
